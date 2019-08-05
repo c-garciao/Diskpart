@@ -36,3 +36,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 ## Agradecimientos
 
 * A Mario y Antonio, mis profesores de Sistemas Operativos.
+* A mis compañeros de clase, por ayudarme cuando lo he necesitado.
