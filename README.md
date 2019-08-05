@@ -11,6 +11,10 @@ Solo es necesario ejecutar el script "Menú.bat" desde cualquier terminal (es ne
 ```
   .\Menu.bat
 ```
+Nos mostrará el siguiente menú:
+
+![cmd_2019-08-05_20-49-01](https://user-images.githubusercontent.com/51420640/62487751-ea108380-b7c2-11e9-9258-1846bfde0f0e.png)
+
 ## Despliegue de la aplicación
 
 Es necesario saber muy bien qué hace cada script, puesto que la herramienta no pide confirmación y se puede perder información de los volúmenes. Es recomendable probarla primero en entornos virtuales o reales (en donde no nos preocupe perder datos)
