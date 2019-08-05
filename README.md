@@ -1,5 +1,5 @@
 # Gestión de discos mediante Diskpart
-Herramienta gestión de discos (Diskpart)
+Herramienta de gestión de discos, volúmenes y particiones mediante la línea de comandos (herramienta Diskpart) en los sistemas operativos Windows.
 ## Getting Started
 
 Proyecto creado con la finalidad de ofrecer una herramienta completa de administración de discos. Especialmente pensada para administradores de sistemas.
