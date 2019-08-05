@@ -3,6 +3,7 @@ Herramienta de gestión de discos, volúmenes y particiones mediante la línea d
 ## Getting Started
 
 Proyecto creado con la finalidad de ofrecer una herramienta completa de administración de discos. Especialmente pensada para administradores de sistemas.
+Se ha divido en varios scripts. Cada uno de ellos funciona independientemente de los demás, excepto Listar.bat y Borrar.bat, que son comunes a todos. Esto se realizó de esta forma para facilitar la comprensión y reducción de las líneas de código de la herramienta.
 
 ### Requisitos
 * Necesario SO Windows (Windows Server para la opción de RAID-5)
@@ -18,6 +19,13 @@ Nos mostrará el siguiente menú:
 ## Despliegue de la aplicación
 
 Es necesario saber muy bien qué hace cada script, puesto que la herramienta no pide confirmación y se puede perder información de los volúmenes. Es recomendable probarla primero en entornos virtuales o reales (en donde no nos preocupe perder datos)
+
+Cada uno de los scripts, genera un fichero log en la carpeta correspondiente al volumen/partición creado/eliminado/modificado.
+Ejemplo:
+
+![imagen](https://user-images.githubusercontent.com/51420640/62488660-162d0400-b7c5-11e9-9d97-e7f34b8cbd48.png)
+
+
 
 ## Desarrollado con
 
