@@ -35,7 +35,7 @@ Para más detalles, leer el fichero de [ayuda](Ayuda/UsoHerramientaDiskpart_Carl
 
 ## Autor
 
-* **Carlos Garcia** - *Programación, Front & BackEnd* - [c-garciao](https://gist.github.com/c-garciao)
+* **Carlos Garcia** - *Programación, documentación y test* - [c-garciao](https://gist.github.com/c-garciao)
 
 ## License
 
