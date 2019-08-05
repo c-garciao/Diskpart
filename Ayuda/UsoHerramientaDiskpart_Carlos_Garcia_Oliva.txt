@@ -1,0 +1,42 @@
+﻿Aqui se muestran unas breves aclaraciones y/o consejos para el uso de esta herramienta 
+creada el curso 2018/2019 de 2ASIR para la asignatura de Administracion de SSOO:
+
+	1. Para ejecutarla, lanzar "Menut.bat". Tambien se puden lanzar las ordenes por separado. 
+	2. El Menu contiene las ordenes de limpiar los archivos de configuracion, por lo que 
+	se aconseja volver a el para realizar otras operaciones (seleccionandolas desde ahi 
+	en vez de ejecutar el bat correspondiente),para mayor comodidad. No se ha podido
+	realizar ocultando los archivos ya que el comando "echo", no permite la 
+	redireccion a archivos ocultos.
+	3. Cuando se pide que el usuario pulse una tecla para crear/borrar/extender un volumen, aun se pueden
+	modificar los archivos que contienen los comandos de Diskpart (crea_<>.txt, borra<>.txt).
+	4. Una vez continue la ejecucion del programa (el usuario presiona la tecla), NINGUN
+	cambio tendra validez (diskpart lanza el archivo).
+	5. Se han creado 2 "funciones", la de borrar y listar volumenes (borrar.bat, listar.bat), que son 
+	llamadas desde todos los menus de creacion de volumen, intentando limpiar el codigo todo lo posible.
+	Una vez se termine de trabajar en ellos, vuelve al menu desde las que fueron LLAMADAS (explicacion
+	mas detallada en los scripts).
+	6. El menu de eliminacion y listado de las Particiones primarias, se incluyen
+	dentro de "menuPprimarias.bat".
+	7. Como futura mejora esta la de gestion de errores en el programa a la hora de 
+	crear/borrar volumenes y/o particiones, ya que aun no dispone de ella y la posibilidad de modificar
+	las particiones/volumenes existentes
+	8. Se ha evitado el uso de tildes y enies por problemas con la CODIFICACION y representacion de los 
+	mismos, tanto en los ".bat" como en este documento.
+	9. Los arhivos de registro (.log), se encuentran separados por tipos en la carpeta:
+			Logs\<tipo_volumen/particion>\<crea/borra/extiende_tipo.log>
+	En ellos, se imprime la accion, la fecha y la hora asi como la salida de los comandos de Diskpart.
+	10. Las ordenes son bastante parecidas asi como las estructuras de creacion entre los distintos scripts:
+		   [- Pedir numero de volumenes/particiones]--Opcional
+			-Pedir disco/volumen
+				+Crear
+					- Tamanio
+					- Formato
+					- Etiqueta
+					- Letra
+				+Eliminar
+					- Seleccionar particion/volumen
+		****CONFIRMACION por parte del USUARIO****
+	
+Autor: Carlos Garcia Oliva
+2ASIR 2018/2019
+Ver 1.0 30/09/2018
