@@ -25,7 +25,7 @@ Ejemplo:
 
 ![imagen](https://user-images.githubusercontent.com/51420640/62488660-162d0400-b7c5-11e9-9d97-e7f34b8cbd48.png)
 
-
+Para más detalles, leer el fichero de [ayuda](Ayuda/UsoHerramientaDiskpart_Carlos_Garcia_Oliva.txt)
 
 ## Desarrollado con
 
