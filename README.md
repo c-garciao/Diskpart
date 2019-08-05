@@ -25,13 +25,13 @@ Ejemplo:
 
 ![imagen](https://user-images.githubusercontent.com/51420640/62488660-162d0400-b7c5-11e9-9d97-e7f34b8cbd48.png)
 
-Para más detalles, leer el fichero de [ayuda](Ayuda/UsoHerramientaDiskpart_Carlos_Garcia_Oliva.txt)
+Para más detalles, leer el fichero de [ayuda](Ayuda/UsoHerramientaDiskpart_Carlos_Garcia_Oliva.txt).
 
 ## Desarrollado con
 
 * [Notepad++](https://notepad-plus-plus.org/) - Editor de textos utilizado
-* [VirtualBox] (https://www.virtualbox.org/) - Entorno de virtualización utilizado
-* [Windows Server 2008] (https://www.microsoft.com/es-es/download/details.aspx?id=5023) - Sistema operativo sobre el que se hicieron las pruebas
+* [VirtualBox](https://www.virtualbox.org/) - Entorno de virtualización utilizado
+* [Windows Server 2008](https://www.microsoft.com/es-es/download/details.aspx?id=5023) - Sistema operativo sobre el que se hicieron las pruebas
 
 ## Autor
 
@@ -44,4 +44,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 ## Agradecimientos
 
 * A Mario y Antonio, mis profesores de Sistemas Operativos.
-* A mis compañeros de clase, por ayudarme cuando lo he necesitado.
+* A mis compañeros de clase, por echarme una mano cuando lo he necesitado.
