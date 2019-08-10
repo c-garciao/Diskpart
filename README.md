@@ -3,7 +3,7 @@ Herramienta de gestión de discos, volúmenes y particiones mediante la línea d
 ## Getting Started
 
 Proyecto creado con la finalidad de ofrecer una herramienta completa de administración de discos. Especialmente pensada para administradores de sistemas.
-Se ha divido en varios scripts. Cada uno de ellos funciona independientemente de los demás, excepto Listar.bat y Borrar.bat, que son comunes a todos. Esto se realizó de esta forma para facilitar la comprensión y reducción de las líneas de código de la herramienta.
+Se ha divido en varios scripts. Cada uno de ellos funciona independientemente de los demás, excepto *Listar.bat* y *Borrar.bat*, que son comunes a todos. Esto se realizó de esta forma para facilitar la comprensión y reducción de las líneas de código de la herramienta.
 
 ### Requisitos
 * Necesario SO Windows (Windows Server para la opción de RAID-5)
