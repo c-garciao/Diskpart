@@ -39,7 +39,7 @@ Para más detalles, leer el fichero de [ayuda](Ayuda/UsoHerramientaDiskpart_Carl
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details
 
 ## Agradecimientos
 
